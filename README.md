@@ -30,8 +30,7 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 ## 🦈 Featured Repos (Shark Tank)
 | Project | What it shows | Stack |
 |---|---|---|
-| **packet-reef** | Networking labs & configs (OSI, VLANs, routing) | Cisco PT, docs |
-| **Python Journey:** | Conditional Statements, Data Types, Loops, Classes | Python, Project-based learning |
+| **Python Journey:** | Conditional Statements, Data Types, Loops, Classes | Python, Project-based learning |  |
 
 
 ---
