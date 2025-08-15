@@ -10,7 +10,7 @@ This is a portfolio of all the cybersecurity and technology projects.
 <p align="center">
   <!-- Badges (swap usernames/links) -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/YOUR-USER"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://github.com/CyberSharkMan25"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
   <a href="mailto:YOUREMAIL@example.com"><img src="https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Security%2B-Studying-informational">
 </p>
