@@ -48,8 +48,7 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 ---
 ## ✅ Recent Completed Projects 
 **New personal PC**: built with the purpose to better support virtualization needs 
-**Entra ID Project**: Created users, groups, resources, policy, and implemented MFA in Azure environment**
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
+**Entra ID Project**: Created users, groups, resources, policy, and implemented MFA in Azure environment** ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
 
 
 
@@ -58,8 +57,7 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 
 ## 🛠️ Upcoming Projects
 **Active Directory with Splunk monitoring**: In Progress (August 2025 - Present)
-![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white)![Active Directory](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white)
 **
 
