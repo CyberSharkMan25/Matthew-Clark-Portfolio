@@ -46,7 +46,7 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 ---
 
 ---
-| ✅ Recentlt Completed Projects |
+| ✅ Recently Completed Projects |
 |---|
 | **New personal PC**: built with the purpose to better support virtualization needs |
 | **Entra ID Project**: Created users, groups, resources, policy, and implemented MFA in Azure environment** ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white) |
