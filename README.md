@@ -30,14 +30,9 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 ## 🦈 Featured Repos (Shark Tank)
 | Project | What it shows | Stack |
 |---|---|---|
-| **reef-guard-iam** | Conditional Access & MFA policies with scripts + diagrams | Entra ID, PowerShell |
-| **fin-sim-phish** | Phishing simulation playbooks, templates, result dashboards | Python, markdown, CSV |
-| **mako-mdm-remediate** | Device compliance checks, re-enrollment scripts | Intune/MDM, PowerShell |
 | **packet-reef** | Networking labs & configs (OSI, VLANs, routing) | Cisco PT, docs |
-| **bluefin-soc-notes** | TTPs, detection notes, incident runbooks | Markdown, Sigma (optional) |
-| **Python Journey:** | Conditional Statements, Data Types, Loops, Classes, Project-based learning |
+| **Python Journey:** | Conditional Statements, Data Types, Loops, Classes | Python, Project-based learning |
 
-> Tip: Pin these 6 repos on your GitHub profile.
 
 ---
 
