@@ -49,7 +49,9 @@ Currently interning at **Trex** and building hands-on projects that secure real 
 | ✅ Recently Completed Projects |
 |---|
 | **New personal PC**: built with the purpose to better support virtualization needs |
-| **Entra ID Project**: Created users, groups, resources, policy, and implemented MFA in Azure environment** ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white) |
+| **Entra ID Project**: Created users, groups, resources, policy, and implemented MFA in Azure environment ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white) |
+| **Nessus Vulnerability Scan & Presentation**: Ran vulnerability assessment of Windows machine using Nessus installed on Kali Linux Machine. ![Kali Linux](https://img.shields.io/badge/Kali-Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+|
 
 
 
