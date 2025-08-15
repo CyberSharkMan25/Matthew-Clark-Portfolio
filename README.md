@@ -46,7 +46,7 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 ---
 
 ---
-## ✅ Recent Completed Projects ![AMD](https://img.shields.io/badge/-AMD-ED1C24?logo=amd&logoColor=white)
+## ✅ Recent Completed Projects 
 **New personal PC**: built with the purpose to better support virtualization needs 
 
 ![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white)
