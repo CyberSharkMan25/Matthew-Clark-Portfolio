@@ -53,14 +53,20 @@ Currently interning at **Trex** and building hands-on projects that secure real 
 | **Nessus Vulnerability Scan & Presentation**: Ran vulnerability assessment of Windows machine using Nessus installed on Kali Linux Machine. ![Kali Linux](https://img.shields.io/badge/Kali-Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 |
 
-
-
-
 ---
 
 | 🛠️ Upcoming Projects |
 |---|
-| **Active Directory with Splunk monitoring**: In Progress (August 2025 - Present)![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white)![Active Directory](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white)![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white) |
+| **Active Directory with Splunk monitoring**: In Progress (August 2025 - Present) ![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white)![Active Directory](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white)![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white) |
+
+---
+
+| 📖 Certifications | 
+|---|
+| **CompTIA Security+** (scheduled for August 30th, 2025 |
+| **Google IT Support Certificate** (Received July 2025 |
+| **University of Michigan Python for Everybody (Coursera)** (Completed January 2023) |
+| **CompTIA IT Fundamentals+** (Received May 2022)|
 
 ---
 
