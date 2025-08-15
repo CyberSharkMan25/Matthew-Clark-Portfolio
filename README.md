@@ -35,6 +35,7 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 | **mako-mdm-remediate** | Device compliance checks, re-enrollment scripts | Intune/MDM, PowerShell |
 | **packet-reef** | Networking labs & configs (OSI, VLANs, routing) | Cisco PT, docs |
 | **bluefin-soc-notes** | TTPs, detection notes, incident runbooks | Markdown, Sigma (optional) |
+| **Python Journey:** | Conditional Statements, Data Types, Loops, Classes, Project-based learning |
 
 > Tip: Pin these 6 repos on your GitHub profile.
 
