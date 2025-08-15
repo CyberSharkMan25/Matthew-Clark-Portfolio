@@ -46,13 +46,14 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 **Endpoint & MDM:** Compliance, enrollment flows, PKI basics  
 **SecOps:** Phishing awareness, reporting pipelines  
 **Scripting/Dev:** PowerShell, Python, SQL basics
+**Technical Writing & Documentation**: Azure Migrate Assessment Project, Nessus Vulnerability Scanner project.
 
 ---
 
 ## 🌐 Talk to Me
 - Portfolio: `https://your-username.github.io`  
-- LinkedIn: `linkedin.com/in/your-handle`  
-- Email: `you@example.com`
+- LinkedIn: `www.linkedin.com/in/matthew-clark-51616824a`  
+- Email: `matthewclarkpro590@gmail.com`
 
 ---
 
