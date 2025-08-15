@@ -66,7 +66,7 @@ Currently interning at **Trex**, building hands-on projects that secure real env
 | Certification | Date / Status |
 |---|---|
 | **CompTIA Security+** | Scheduled August 30th, 2025 |
-| **CCNA (Cisco Certification Network Associate) | Not Scheduled |
+| **CCNA (Cisco Certification Network Associate)** | Not Scheduled |
 | **Google IT Support Certificate** | Received July 2025 |
 | **Python for Everybody (Coursera)** | Completed January 2023 |
 | **CompTIA IT Fundamentals+** | Received May 2022 |
