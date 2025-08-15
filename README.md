@@ -45,8 +45,24 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 
 ---
 
+---
+## ✅ Recent Completed Projects 
+**New personal PC**: built with the purpose to better support virtualization needs 
+
+![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white)
+
+
+---
+
+## 🛠️ Upcoming Projects
+**Active Directory with Splunk monitoring**: In Progress (August 2025 - Present
+**
+
+---
+
 ## 🌐 Talk to Me
-- Portfolio: `https://your-username.github.io`  
 - LinkedIn: `www.linkedin.com/in/matthew-clark-51616824a`  
 - Email: `matthewclarkpro590@gmail.com`
 
