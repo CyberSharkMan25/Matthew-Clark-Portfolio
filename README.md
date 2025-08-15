@@ -28,7 +28,7 @@ Currently interning at **Trex** and building hands-on projects that harden real 
 ---
 
 ## 🦈 Featured Repos (Shark Tank)
-| Project | What it shows | Stack |
+| Project | What it shows | Stack | Link |
 |---|---|---|---|
 | **Python Journey:** | Conditional Statements, Data Types, Loops, Classes | Python, Project-based learning | https://github.com/CyberSharkMan25/Python-Journey |
 
