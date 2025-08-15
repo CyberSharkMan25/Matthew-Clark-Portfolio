@@ -63,8 +63,8 @@ Currently interning at **Trex** and building hands-on projects that secure real 
 
 | 📖 Certifications | 
 |---|
-| **CompTIA Security+** (scheduled for August 30th, 2025 |
-| **Google IT Support Certificate** (Received July 2025 |
+| **CompTIA Security+** (scheduled for August 30th, 2025) |
+| **Google IT Support Certificate** (Received July 2025) |
 | **University of Michigan Python for Everybody (Coursera)** (Completed January 2023) |
 | **CompTIA IT Fundamentals+** (Received May 2022)|
 
