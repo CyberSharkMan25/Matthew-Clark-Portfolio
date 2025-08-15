@@ -80,5 +80,5 @@ Currently interning at **Trex**, building hands-on projects that secure real env
 ---
 
 <p align="center">
-  <sub><em>“Keep swimming, keep shipping.”</em></sub>
+  <sub><em>“Stay sharp, stay secure”</em></sub>
 </p>
