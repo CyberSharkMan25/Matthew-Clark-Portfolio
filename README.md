@@ -58,7 +58,8 @@ Currently interning at **Trex**, building hands-on projects that secure real env
 ## 🛠️ Upcoming Projects
 | Project | Status & Stack |
 |---|---|
-| **Active Directory with Splunk Monitoring** | In Progress (August 2025 - Present) ![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white) ![AD](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white) |
+| **Active Directory with Splunk Monitoring** | In Progress (July 2025 - Present) ![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white) ![AD](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white) |
+| **AWS Environment Configuration | In Progress (August 2025 - Present) |
 
 ---
 
