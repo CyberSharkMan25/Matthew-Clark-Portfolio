@@ -1,21 +1,21 @@
-# 🦈 Matthew “SharkSec” Clark - Portfolio
-> Blue-team enthusiast • Cloud & Identity • Breaking phish, not fish
+<div align="center">
+
+# 🦈 Matthew “SharkSec” Clark - Portfolio  
+> Blue-team enthusiast • Cloud & Identity • Breaking phish, not fish  
 
 ---
 
-<p align="center">
-  <!-- Badges -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/CyberSharkMan25">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:YOUREMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white" alt="Email">
-  </a>
-  <img src="https://img.shields.io/badge/Security%2B-Studying-informational" alt="Security+ Studying">
-</p>
+<!-- Badges -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/CyberSharkMan25">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:YOUREMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white" alt="Email">
+</a>
+<img src="https://img.shields.io/badge/Security%2B-Studying-informational" alt="Security+ Studying">
 
 ---
 
@@ -59,7 +59,7 @@ Currently interning at **Trex Company**, building hands-on projects that secure 
 | Project | Status & Stack |
 |---|---|
 | **Active Directory with Splunk Monitoring** | In Progress (July 2025 - Present) ![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white) ![AD](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white) |
-| **AWS Environment Configuration | In Progress (August 2025 - Present) |
+| **AWS Environment Configuration** | In Progress (August 2025 - Present) |
 
 ---
 
@@ -81,6 +81,6 @@ Currently interning at **Trex Company**, building hands-on projects that secure 
 
 ---
 
-<p align="center">
-  <sub><em>“Stay sharp, stay secure”</em></sub>
-</p>
+<sub><em>“Stay sharp, stay secure”</em></sub>
+
+</div>
