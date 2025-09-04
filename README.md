@@ -21,7 +21,7 @@
 
 ## 🌊 About Me
 Hi! I’m Matthew, a cybersecurity graduate diving deep into **Azure/Entra ID, MDM, phishing defense, and identity access**.  
-Currently interning at **Trex**, building hands-on projects that secure real environments.
+Currently interning at **Trex Company**, building hands-on projects that secure real environments.
 
 - 🔐 **Interests:** Blue Team, IAM, MDM, Cloud Security  
 - 🧰 **Tools:** Azure/Entra, Exchange, Intune/MDM, PowerShell, Linux, Python  
