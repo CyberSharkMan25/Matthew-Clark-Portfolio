@@ -68,7 +68,7 @@ Currently interning at **Trex Company**, building hands-on projects that secure 
 |---|---|
 | **CompTIA Security+** | Received August 23rd, 2025 |
 | **AWS Solutions Architect** | Scheduled for Nov 1st, 2025 |
-| **CCNA (Cisco Certification Network Associate)** | TBD |
+| **CCNA (Cisco Certification Network Associate)** | Scheduled for March 1st, 2026 |
 | **Google IT Support Certificate** | Received July 2025 |
 | **Python for Everybody (Coursera)** | Completed January 2023 |
 | **CompTIA IT Fundamentals+** | Received May 2022 |
