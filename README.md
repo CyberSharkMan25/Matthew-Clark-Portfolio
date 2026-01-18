@@ -59,7 +59,7 @@ Currently interning at **Trex Company**, building hands-on projects that secure 
 ## 🛠️ Upcoming Projects
 | Project | Status & Stack |
 |---|---|
-| **Enterprise Security Environment** | In Progress (January 2025 - Present) Primary & Secondary Domain controllers, AD backups, Wazuh SIEM/XDR, AD to Entra connection, vlans, PfSense Router/firewall, VirtualBox
+| **Enterprise Security Environment** | In Progress (January 2026 - Present) Primary & Secondary Domain controllers, AD backups, Wazuh SIEM/XDR, AD to Entra connection, vlans, PfSense Router/firewall, VirtualBox
 
 
 ---
