@@ -52,14 +52,15 @@ Currently interning at **Trex Company**, building hands-on projects that secure 
 | **New Personal PC** | Built to support virtualization and lab environments |
 | **Entra ID Project** | Created users, groups, resources, policies, and implemented MFA in Azure ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white) |
 | **Nessus Vulnerability Scan** | Ran a vulnerability assessment of a Windows machine using Nessus on Kali Linux ![Kali](https://img.shields.io/badge/Kali-Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) |
+| **Active Directory with Splunk Monitoring** | Septebmer - November 2025 ![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white) ![AD](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white) |
 
 ---
 
 ## 🛠️ Upcoming Projects
 | Project | Status & Stack |
 |---|---|
-| **Active Directory with Splunk Monitoring** | In Progress (July 2025 - Present) ![Splunk](https://img.shields.io/badge/-Splunk-000?logo=splunk&logoColor=white) ![AD](https://img.shields.io/badge/-Active%20Directory-003366?logo=windows&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-012456?logo=powershell&logoColor=white) |
-| **AWS Environment Configuration** | In Progress (August 2025 - Present) |
+| **Enterprise Security Environment** | In Progress (January 2025 - Present) Primary & Secondary Domain controllers, AD backups, Wazuh SIEM/XDR, AD to Entra connection, vlans, PfSense Router/firewall, VirtualBox
+
 
 ---
 
@@ -67,8 +68,7 @@ Currently interning at **Trex Company**, building hands-on projects that secure 
 | Certification | Date / Status |
 |---|---|
 | **CompTIA Security+** | Received August 23rd, 2025 |
-| **AWS Solutions Architect** | Scheduled for Dec 6th, 2025 |
-| **CCNA (Cisco Certification Network Associate)** | Scheduled for March 1st, 2026 |
+| **CCNA (Cisco Certification Network Associate)** | Scheduled for April 8th, 2026 |
 | **Google IT Support Certificate** | Received July 2025 |
 | **Python for Everybody (Coursera)** | Completed January 2023 |
 | **CompTIA IT Fundamentals+** | Received May 2022 |
